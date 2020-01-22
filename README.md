@@ -17,7 +17,7 @@ Finally, you download this repository in the folder pc2 inside the VM and run th
 
 For create and initialiate, run the command: python 1Deploy.py
 
-Then, just wait until everything is ready and the website (Quiz) will be available using the URL: http://20.20.20.2:80
+Then, just wait until everything is ready and the website (Quiz) will be available using the URL: http://20.20.2.2:80
 
 If you want to add a fourth server, just type: python s4.py
 
