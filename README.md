@@ -8,10 +8,10 @@ https://mega.nz/#!ogFmiQ4L!pSUNKFv1o0fyTQKSw4tEmdIdZwc_hfJFEWJ6LvzGM48
 Also, the "VM VistualBox Extension Pack" is needed.
 
 After installing the VM, access to a terminal and download and decompress the setting by typing:
-  wget http://idefix.dit.upm.es/cdps/pc2/pc2.tgz
-  sudo vnx --unpack pc2.tgz
-  cd pc2
-  bin/prepare-pc2-vm
+  - wget http://idefix.dit.upm.es/cdps/pc2/pc2.tgz
+  - sudo vnx --unpack pc2.tgz
+  - cd pc2
+  - bin/prepare-pc2-vm
 
 Finally, you download this repository in the folder pc2 inside the VM and run the commands to create and initialitate the setting.
 
